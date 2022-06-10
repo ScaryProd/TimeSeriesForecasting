@@ -127,12 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# data files
-holidays_events.csv
-oil.csv
-sample_submission.csv
-stores.csv
-test.csv
-train.csv
-transactions.csv
