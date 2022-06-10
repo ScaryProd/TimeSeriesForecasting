@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data
+holidays_events.csv
+oil.csv
+sample_submission.csv
+store-sales-time-series-forecasting.zip
+stores.csv
+test.csv
+train.csv
+transactions.csv
